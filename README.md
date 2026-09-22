@@ -13,5 +13,6 @@ Them together makes the word Keebnyll.
 How is this project being tracked?
 This project is being tracked with Lapse by Hack Club. 
 Time stamps will be added in the journal every time something is changed in the project.
-
+You may visit Lapse here: https://lapse.hackclub.com/
+You may read the Journal here: https://github.com/yonyll-html/keebnyll/blob/main/journal.md
 
