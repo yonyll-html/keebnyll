@@ -19,7 +19,7 @@ You may read the Journal here: https://github.com/yonyll-html/keebnyll/blob/main
 
 Now about the keyboard:
 
-## Goals
+# Goals
 
 - Custom PCB
 - Custom case
@@ -29,7 +29,7 @@ Now about the keyboard:
 - RGB/keycap lighting
 - Custom firmware
 
-## Current Progress
+# Current Progress
 
 - [x] Keyboard concept
 - [x] Initial design
@@ -40,5 +40,5 @@ Now about the keyboard:
 - [ ] Assembly
 - [ ] Testing
 
-## Current Design
+# Current Design
 <img width="1920" height="1080" alt="Keebnyll" src="https://github.com/user-attachments/assets/76a603cf-535a-48de-9599-bc10b7e1bfbd" />
