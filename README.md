@@ -3,7 +3,7 @@ Process of building a keyboard (with Hackclub)
 
 What is Keebnyll?
 Keebnyll is a Hack Club Keeb project.
-I'm Creating my dream keyboard (Will be challenging since this is my first (actual) GitHub Repo and My first time with Boards/PCBs.
+I'm Creating my dream keyboard (Will be challenging since this is my first (actual) GitHub Repo and My first time with Boards/PCBs.)
 You may visit them here: https://keeb.hackclub.com/
 
 What does the name "Keebnyll" mean?
