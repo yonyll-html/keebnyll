@@ -20,7 +20,10 @@ the insert button being replaced with a display, and the side having a volume co
 
 Next stage:
 **Picking the parts**
-<br>
-I will pick the parts and (hopefully) Remember to time with <a href="https://lapse.hackclub.com/">Lapse</a>.
 
+Total Time in this section: 45 Minutes
+<br>
+I Picked my parts and tracked with <a href="https://lapse.hackclub.com/timelapse/HA1YnuEKG0M4">Lapse</a>.
+
+You may check what I picked <a href="github.com/yonyll-html/keebnyll/blob/main/BOM.md">here.</a>
 
