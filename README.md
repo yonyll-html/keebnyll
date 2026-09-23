@@ -45,4 +45,5 @@ Now about the keyboard:
 - [ ] Testing
 
 # Current Design
-<img width="1920" height="1080" alt="Keebnyll" src="https://github.com/user-attachments/assets/76a603cf-535a-48de-9599-bc10b7e1bfbd" />
+<img width="1920" height="1080" alt="Keebnyll (1)" src="https://github.com/user-attachments/assets/cae0f771-d5b4-466f-b805-c8b2926bfbad" />
+
