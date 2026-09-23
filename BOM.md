@@ -1,6 +1,7 @@
 # Bill of Materials
 
 In this section, I will be creating the shopping list for my keyboard project.
+Total Time: 45 Minutes
 
 ## 1. Switches
 
