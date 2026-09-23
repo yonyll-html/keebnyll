@@ -2,7 +2,7 @@
 In this section I will be making the Shopping lists for the keyboard.
 
 1. Switches.
-I have decided on <a href="https://www.aliexpress.us/item/3256806196340306.html?src=google&aff_platform=true&aff_short_key=_c3lfrTVL&isdl=y&gatewayAdapt=glo2usa">Creamy Switches.<a>
+I have decided on these <a href="https://www.aliexpress.us/item/3256806196340306.html?src=google&aff_platform=true&aff_short_key=_c3lfrTVL&isdl=y&gatewayAdapt=glo2usa">Creamy Switches.<a>
 <br>
 Price 11.08$
 <br>
