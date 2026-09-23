@@ -24,6 +24,7 @@ Price: 1.09$
 <br>
 <a href="https://www.aliexpress.us/item/3256802153601411.html?spm=a2g0o.productlist.main.4.3c68wNSjwNSjbM&aem_p4p_detail=202609221830061758017660978380000067889&algo_pvid=2f5451e5-f60d-48bd-8808-446b95dcd7c7&algo_exp_id=2f5451e5-f60d-48bd-8808-446b95dcd7c7-3&pdp_ext_f=%7B%22order%22%3A%221267%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.14%211.14%21%21%211.14%211.14%21%402103094f17901270060395305e130e%2112000020175180916%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ab74e9cd0%3Bm03_new_user%3A-29895&curPageLogUid=j5Vu38fWVB7J&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002339916163%7C_p_origin_prod%3A&search_p4p_id=202609221830061758017660978380000067889_1">Diodes (1N4148)</a>
 <br>
+Price: 7.72$
 <a href="https://www.aliexpress.us/item/3256810305129996.html?spm=a2g0o.productlist.main.1.282d287eLDwANG&algo_pvid=3b5836cf-0c07-4ab6-b4cc-b608e8711f3a&algo_exp_id=3b5836cf-0c07-4ab6-b4cc-b608e8711f3a-0&pdp_ext_f=%7B%22order%22%3A%2241%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.87%214.48%21%21%214.87%214.48%21%402101e81117901272887775338e12c1%2112000052582134404%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ab74e9cd0%3Bm03_new_user%3A-29895%3BpisId%3A5000000218370231&curPageLogUid=YVbI6ocldSYw&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010491444748%7C_p_origin_prod%3A">LED lighting</a>
 <br>
 Price: 6.78$
@@ -39,3 +40,5 @@ Price: 48.73$
 <a href="https://www.aliexpress.us/item/3256813043499193.html?spm=a2g0o.productlist.main.12.3481342bS5YLq9&aem_p4p_detail=2026092218461913449572658929790000069515&algo_pvid=253a59fe-b53c-456e-9887-22fccd953ab0&algo_exp_id=253a59fe-b53c-456e-9887-22fccd953ab0-11&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.95%210.95%21%21%216.30%216.30%21%402103138417901279798644667e1068%2112000060637678797%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ab74e9cd0%3Bm03_new_user%3A-29895&curPageLogUid=eotv8JpN20AC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013229813945%7C_p_origin_prod%3A&search_p4p_id=2026092218461913449572658929790000069515_3">Buzzer</a>
 <br>
 Price: 0.95$
+<br>
+# Total Price: 102.96$ USD
