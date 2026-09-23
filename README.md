@@ -18,6 +18,9 @@ Time stamps will be added in the journal every time something is changed in the 
 You may visit Lapse here: https://lapse.hackclub.com/
 You may read the Journal here: https://github.com/yonyll-html/keebnyll/blob/main/journal.md
 
+Will this Project help me out in my future goals?
+Hopefully and Possibly, My goal is to start doing more projects like this one so that I get better, and have fun at the same time.
+
 Now about the keyboard:
 
 # Goals
