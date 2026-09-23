@@ -19,7 +19,8 @@ This is the layout I'm going with. It's a normal 65% design with the only differ
 the insert button being replaced with a display, and the side having a volume control button.
 
 Next stage:
-**Designing the PCB**
+**Picking the parts**
 <br>
-I will design the PCB and (hopefully) Remember to time with <a href="https://lapse.hackclub.com/">Lapse</a>.
+I will pick the parts and (hopefully) Remember to time with <a href="https://lapse.hackclub.com/">Lapse</a>.
+
 
